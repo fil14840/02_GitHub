@@ -1,6 +1,7 @@
 public class Product{
 private String name = "Coca Cola";
-private boolean onStock = true;
+private float = 10;
+private int id;
 
 
 public Product(name){};
